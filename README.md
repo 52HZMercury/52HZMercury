@@ -1,14 +1,4 @@
-- 👋 Hi, I’m @52HZMercury
-- 👀 I’m interested in astronomy
-- 🌱 I’m currently learning docker
-- 📫 How to reach me ---here is my email address: chenning_william@163.com
-
-<div align="center"> <img src="https://metrics.lecoq.io/52HZMercury?template=classic&config.timezone=Asia%2FShanghai"> </div>
-
-<div align="center"> 
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=52HZMercury" /> 
-</div>
-
+![Metrics](https://metrics.lecoq.io/52HZMercury?template=classic&isocalendar=1&lines=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&isocalendar=false&isocalendar.duration=half-year&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&config.timezone=Asia%2FHong_Kong)
 <div align="center">
   <img alt-"html5" src="https://media.giphy.com/media/XAxylRMCdpbEWUAvr8/giphy.gif" width="100" title="html">
   <img alt="css" src="https://media.giphy.com/media/fsEaZldNC8A1PJ3mwp/giphy.gif" width="100" title="css">
