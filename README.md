@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning docker
 - 📫 How to reach me ---here is my email address: chenning_william@163.com
 
-<div align="center"> <img src="https://metrics.lecoq.io/CoderSerio?template=classic&config.timezone=Asia%2FShanghai"> </div>
+<div align="center"> <img src="https://metrics.lecoq.io/52HZMercury?template=classic&config.timezone=Asia%2FShanghai"> </div>
 
 <div align="center"> 
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=52HZMercury" /> 
