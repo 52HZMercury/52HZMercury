@@ -1,3 +1,29 @@
+### Hello! I'm 52HZMercury 👋
+
+---
+
+<a href="https://github.com/52HZMercury/52HZMercury">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=52HZMercury&show_icons=true&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=52HZMercury&show_icons=true">
+    <img alt="52HZMercury's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=52HZMercury&show_icons=true">
+  </picture>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=52HZMercury&layout=compact&line_height=25&theme=radical">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=52HZMercury&layout=compact&line_height=25">
+    <img alt="52HZMercury's GitHub Top Lang" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hect0x7&layout=compact&line_height=25">
+  </picture>
+</a>
+
+
+About me:
+
+- 🔭 I like doing sth that interests me in the open-source community whenever I'm free
+
+- ❤️ I love astronomy and writing Python the most
+
+
 <div align="center">
 <!--   <img  alt="Github" src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Github/Github.png" width="400" title="Github"> -->
   <img  alt="Java" src="https://github.com/jonacruz89/SAWARATSUKI.ServiceLogos/blob/main/Java/Java.png" width="350" title="Java">
