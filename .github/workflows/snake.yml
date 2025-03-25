@@ -37,4 +37,4 @@ jobs:
           target_branch: output
           build_dir: dist
         env:
-          GITHUB_TOKEN: ${{ FORSNAKE }}          
+          GITHUB_TOKEN: FORSNAKE       
