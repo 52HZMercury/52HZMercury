@@ -21,7 +21,7 @@ About me:
 
 - 🔭 I love astronomy the most
 
-- ❤️ I like doing sth that interests me in the open-source community whenever I'm free
+- ❤️ I like doing sth that interests me 
 
 
 
