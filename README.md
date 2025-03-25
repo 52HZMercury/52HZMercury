@@ -19,9 +19,9 @@
 
 About me:
 
-- 🔭 I like doing sth that interests me in the open-source community whenever I'm free
+- 🔭 I love astronomy the most
 
-- ❤️ I love astronomy and writing Python the most
+- ❤️ I like doing sth that interests me in the open-source community whenever I'm free
 
 
 <div align="center">
